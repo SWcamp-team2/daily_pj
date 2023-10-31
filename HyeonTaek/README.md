@@ -1,1 +1,3 @@
-#personal daily_project management
+#1주차 개인 프로젝트 진행
+
+##개인 프로젝트 주제: 인공지능을 활용한 헬스케어 개인화 서비스 제공
